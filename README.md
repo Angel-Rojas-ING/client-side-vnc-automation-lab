@@ -46,7 +46,7 @@
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tuusuario/lab14-auto-exploit.git
+git clone https://github.com/Angel-Rojas-ING/client-side-vnc-automation-lab.git
 
 # Entrar al directorio
 cd lab14-auto-exploit

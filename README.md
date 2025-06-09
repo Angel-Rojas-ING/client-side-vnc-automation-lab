@@ -199,7 +199,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 **The-White-Hat** 🎩
 
-- GitHub: [@The-White-Hat](https://github.com/The-White-Hat)
+- GitHub: [@The-White-Hat]([https://github.com/The-White-Hat](https://www.linkedin.com/in/angel-gabriel-gil-rojas-8b7933343/))
 - Proyecto: Lab 1.4 Automation
 
 ## 🙏 Agradecimientos
